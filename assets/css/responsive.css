@@ -1,5 +1,5 @@
 /* Tablet & Mobile */
-@media (max-width: 1023px) {
+@media (max-width: 63.9375em) {
     .buy-btn {
         padding: 16px 16px;
     }
@@ -31,7 +31,7 @@
 }
 
 /* Mobile: width <740px */
-@media (max-width: 739px) {
+@media (max-width: 46.1875em) {
     .s-col-full {
         width: 100% !important;
     }
